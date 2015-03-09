@@ -1,0 +1,15 @@
+{
+  "name": "ServerHealth",
+  "version": "0.0.1",
+  "description": "Websocket health status",
+  "main": "health.js",
+  "dependencies": {
+    "socket.io": "~1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shadownest",
+  "license": "MIT"
+}
